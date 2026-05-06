@@ -1,16 +1,29 @@
 payload:
-  - DOMAIN-SUFFIX,newsbreak.com
-  - DOMAIN-SUFFIX,outbrain.com
+  # network
+  - DOMAIN-SUFFIX,clickbank.com
+  - DOMAIN-SUFFIX,deluxeadstrack.com
+  - DOMAIN-SUFFIX,ds24.com
   - DOMAIN-SUFFIX,everflowclient.io
+  - DOMAIN-SUFFIX,jvzoo.com
+  - DOMAIN-SUFFIX,oasisads.com
+
+  # traffic source
   - DOMAIN-SUFFIX,mediago.io
   - DOMAIN-SUFFIX,mgid.com
-  - DOMAIN-SUFFIX,clickbank.com
-  - DOMAIN-SUFFIX,adbets.club
-  - DOMAIN-SUFFIX,ds24.com
-  - DOMAIN-SUFFIX,anstrex.com
-  - DOMAIN-SUFFIX,taboola.com
+  - DOMAIN-SUFFIX,newsbreak.com
   - DOMAIN-SUFFIX,outbrain.com
   - DOMAIN-SUFFIX,outbrainimg.com
-  - DOMAIN-SUFFIX,deluxeadstrack.com
-  - DOMAIN-SUFFIX,oasisads.com
-  - DOMAIN-SUFFIX,jvzoo.com
+  - DOMAIN-SUFFIX,taboola.com
+  
+  # tracker
+  - DOMAIN-SUFFIX,adbets.club
+  - DOMAIN-SUFFIX,bemob.com
+  - DOMAIN-SUFFIX,binom.org
+  - DOMAIN-SUFFIX,keitaro.io
+  - DOMAIN-SUFFIX,redtrack.io
+  - DOMAIN-SUFFIX,triplewhale.com
+  - DOMAIN-SUFFIX,voluum.com
+  
+  # spy
+  - DOMAIN-SUFFIX,anstrex.com
+  
