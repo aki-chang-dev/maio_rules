@@ -1,6 +1,7 @@
 payload:
   # network
   - DOMAIN-SUFFIX,clickbank.com
+  - DOMAIN-SUFFIX,clickbank.net
   - DOMAIN-SUFFIX,deluxeadstrack.com
   - DOMAIN-SUFFIX,ds24.com
   - DOMAIN-SUFFIX,everflowclient.io
@@ -8,6 +9,7 @@ payload:
   - DOMAIN-SUFFIX,oasisads.com
 
   # traffic source
+  - DOMAIN-SUFFIX,adskeeper.com
   - DOMAIN-SUFFIX,mediago.io
   - DOMAIN-SUFFIX,mgid.com
   - DOMAIN-SUFFIX,newsbreak.com
