@@ -1,5 +1,6 @@
 payload:
   # network
+  - DOMAIN-SUFFIX,buygoods.com
   - DOMAIN-SUFFIX,clickbank.com
   - DOMAIN-SUFFIX,clickbank.net
   - DOMAIN-SUFFIX,deluxeadstrack.com
