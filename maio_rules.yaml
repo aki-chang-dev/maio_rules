@@ -11,6 +11,8 @@ payload:
 
   # traffic source
   - DOMAIN-SUFFIX,adskeeper.com
+  - DOMAIN-SUFFIX,bigo.sg
+  - DOMAIN-SUFFIX,bigoads.com
   - DOMAIN-SUFFIX,mediago.io
   - DOMAIN-SUFFIX,mgid.com
   - DOMAIN-SUFFIX,newsbreak.com
