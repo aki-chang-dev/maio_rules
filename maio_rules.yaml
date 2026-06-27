@@ -26,6 +26,7 @@ payload:
   - DOMAIN-SUFFIX,bemob.com
   - DOMAIN-SUFFIX,binom.org
   - DOMAIN-SUFFIX,clickflare.com
+  - DOMAIN-SUFFIX,clickflare.io
   - DOMAIN-SUFFIX,keitaro.io
   - DOMAIN-SUFFIX,redtrack.io
   - DOMAIN-SUFFIX,triplewhale.com
