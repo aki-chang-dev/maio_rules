@@ -20,6 +20,7 @@ payload:
   - DOMAIN-SUFFIX,outbrain.com
   - DOMAIN-SUFFIX,outbrainimg.com
   - DOMAIN-SUFFIX,realizeperformance.com
+  - DOMAIN-SUFFIX,revcontent.com
   - DOMAIN-SUFFIX,taboola.com
   
   # tracker
