@@ -4,6 +4,8 @@ payload:
   - DOMAIN-SUFFIX,clickbank.com
   - DOMAIN-SUFFIX,clickbank.net
   - DOMAIN-SUFFIX,deluxeadstrack.com
+  - DOMAIN-SUFFIX,digistore24.com
+  - DOMAIN-SUFFIX,digistore24-app.com
   - DOMAIN-SUFFIX,ds24.com
   - DOMAIN-SUFFIX,everflowclient.io
   - DOMAIN-SUFFIX,jvzoo.com
