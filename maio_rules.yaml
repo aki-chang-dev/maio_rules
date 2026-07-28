@@ -21,6 +21,7 @@ payload:
   - DOMAIN-SUFFIX,newsbreak.com
   - DOMAIN-SUFFIX,outbrain.com
   - DOMAIN-SUFFIX,outbrainimg.com
+  - DOMAIN-SUFFIX,propellerads.com
   - DOMAIN-SUFFIX,realizeperformance.com
   - DOMAIN-SUFFIX,revcontent.com
   - DOMAIN-SUFFIX,taboola.com
