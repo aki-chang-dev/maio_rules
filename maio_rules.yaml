@@ -10,6 +10,7 @@ payload:
   - DOMAIN-SUFFIX,everflowclient.io
   - DOMAIN-SUFFIX,jvzoo.com
   - DOMAIN-SUFFIX,oasisads.com
+  - DOMAIN-SUFFIX,propellerads.com
 
   # traffic source
   - DOMAIN-SUFFIX,adskeeper.com
